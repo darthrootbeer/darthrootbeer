@@ -41,6 +41,6 @@ need different things than a person skimming a page.
 
 ### Elsewhere
 
-[Live example of a documentation system I directed](https://docs.joinforage.app) ·
+[Documentation and IA work samples](https://github.com/darthrootbeer/writing-samples) ·
 [LinkedIn](https://www.linkedin.com/in/bengoddard)
 
