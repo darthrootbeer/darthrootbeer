@@ -43,3 +43,4 @@ need different things than a person skimming a page.
 
 [Live example of a documentation system I directed](https://docs.joinforage.app) ·
 [LinkedIn](https://www.linkedin.com/in/bengoddard)
+
