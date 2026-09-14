@@ -7,7 +7,7 @@ These days the job is less writing pages and more designing the pipeline, the
 information architecture, and the tooling that produces them, then verifying the
 output is actually correct.
 
-Looking for **Documentation Engineer** and **Information Architect** roles. Remote.
+Looking for **Documentation Engineer** roles. Remote.
 
 ---
 
