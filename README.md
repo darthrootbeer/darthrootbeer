@@ -7,7 +7,8 @@ These days the job is less writing pages and more designing the pipeline, the
 information architecture, and the tooling that produces them, then verifying the
 output is actually correct.
 
-Looking for **Documentation Engineer** roles. Remote.
+Looking for **documentation engineering, technical writing, content systems, and
+AI automation** roles. Remote.
 
 ---
 
